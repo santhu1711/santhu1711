@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**santhu1711/santhu1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Santhosh S
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Aspiring Java Backend Developer
+- 🌱 Currently learning Java, Spring Boot, DSA, AI & RAG
+- 🔭 Currently building **AI Career Coach**
+- 🎯 Goal: Become a Java Backend Developer
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Python
+- SQL
+- Git & GitHub
+- Arduino
+- ESP32
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Spring Boot
+- AI & RAG
+- LLM Applications
+
+## 📫 Connect With Me
+
+- LinkedIn: (Coming Soon)
+- Portfolio: (Coming Soon)
+
+⭐ Thanks for visiting my profile!
