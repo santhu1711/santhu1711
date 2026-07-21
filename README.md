@@ -27,7 +27,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Coming Soon)
+- LinkedIn:  www.linkedin.com/in/santhosh17
 - Portfolio: (Coming Soon)
 
 ⭐ Thanks for visiting my profile!
