@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh S</h1>
 
 <h3 align="center">
-Java Backend Developer • AI Application Developer • IoT Enthusiast
+Java Backend Developer • AI Developer • IoT Enthusiast
 </h3>
 
 <p align="center">
@@ -28,11 +28,9 @@ Building scalable backend applications, AI-powered solutions, and intelligent Io
 
 # 👨‍💻 About Me
 
-I'm passionate about designing and developing scalable backend applications, AI-powered software, and intelligent IoT systems.
+I am a passionate Java Backend Developer with a strong interest in Artificial Intelligence and IoT.
 
-My primary focus is Java Backend Development using Spring Boot, REST APIs, JWT Authentication, MySQL, and Artificial Intelligence technologies including Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
-
-I enjoy building production-ready software that solves real-world problems while continuously learning modern software engineering practices.
+I enjoy building production-ready applications using Java, Spring Boot, REST APIs, MySQL, and AI technologies. My goal is to develop scalable software that solves real-world problems while continuously improving my backend development and system design skills.
 
 ---
 
@@ -40,18 +38,18 @@ I enjoy building production-ready software that solves real-world problems while
 
 # 🧠 NovaMind – AI Personal Assistant
 
-### 🌐 Live Application
+### 🌐 Live Demo
 
 ### https://ai-personal-assistant-sable.vercel.app
 
-A production-ready AI Personal Assistant designed to deliver an intelligent conversational experience with secure authentication, persistent conversations, AI-powered PDF understanding, voice interaction, and an administration portal.
+NovaMind is a production-ready AI Personal Assistant designed to provide an intelligent conversational experience with secure authentication, persistent chat history, AI-powered PDF understanding, and a modern administration dashboard.
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 🤖 AI Chat Assistant
-- 📄 PDF Chat (Retrieval-Augmented Generation)
+- 📄 PDF Chat using Retrieval-Augmented Generation (RAG)
 - 🔐 JWT Authentication
 - 👤 User Dashboard
 - 🛠️ Admin Dashboard
@@ -86,7 +84,6 @@ A production-ready AI Personal Assistant designed to deliver an intelligent conv
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - PDF Processing
-- Large Language Models (LLMs)
 
 ### Frontend
 
@@ -101,33 +98,21 @@ A production-ready AI Personal Assistant designed to deliver an intelligent conv
 
 ---
 
-# 🚀 Other Projects
+# 🤖 Featured IoT Project
 
-## 💼 AI Career Coach
+## Smart Refrigerator with Intelligent Inventory Management
 
-An AI-powered career development platform that helps users prepare for interviews, improve resumes, and build personalized career roadmaps.
+An IoT-enabled smart refrigerator that automates inventory tracking and environmental monitoring.
 
-### Key Features
-
-- Resume Analysis
-- Interview Preparation
-- Career Guidance
-- AI Chat Assistance
-- Technical Interview Practice
-
----
-
-## 🤖 IoT Smart Refrigerator
-
-An intelligent inventory management system built using ESP32 and IoT technologies.
-
-### Key Features
+### Features
 
 - RFID Authentication
 - QR Code Detection
 - OpenCV Integration
 - Load Cell Monitoring
 - Temperature Monitoring
+- DHT22 Sensor
+- ESP32
 - Blynk Cloud Integration
 
 ---
@@ -165,18 +150,17 @@ An intelligent inventory management system built using ESP32 and IoT technologie
 
 - Google Gemini API
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
 - Prompt Engineering
 - PDF Processing
+- Large Language Models (LLMs)
 
 ---
 
-## IoT
+## IoT & Embedded Systems
 
 - Arduino
 - ESP32
 - Micro:bit
-- Embedded Systems
 
 ---
 
@@ -197,27 +181,27 @@ An intelligent inventory management system built using ESP32 and IoT technologie
 - Data Structures & Algorithms
 - System Design
 - Microservices
-- AI Agents
-- Large Language Models
+- Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
 - Cloud Deployment
 
 ---
 
 # 🎯 Career Objective
 
-To build scalable backend systems and AI-powered applications while continuously learning modern software engineering practices and contributing to impactful technology solutions.
+To become a highly skilled Java Backend Developer by building scalable backend systems, AI-powered applications, and enterprise-grade software solutions.
 
 ---
 
 # 📈 Current Focus
 
-✅ Enterprise Java Development
-
-✅ Backend API Development
-
-✅ Artificial Intelligence Applications
+✅ Java Backend Development
 
 ✅ Spring Boot
+
+✅ REST API Development
+
+✅ Artificial Intelligence Applications
 
 ✅ System Design
 
@@ -253,15 +237,15 @@ To build scalable backend systems and AI-powered applications while continuously
 
 ### 💼 LinkedIn
 
-https://www.linkedin.com/in/santhosh17
+🔗 https://www.linkedin.com/in/santhosh17
 
 ### 💻 GitHub
 
-https://github.com/santhu1711
+🔗 https://github.com/santhu1711
 
-### 🌐 Live Project
+### 🌐 Live Demo
 
-https://ai-personal-assistant-sable.vercel.app
+🔗 https://ai-personal-assistant-sable.vercel.app
 
 ---
 
@@ -273,7 +257,7 @@ https://ai-personal-assistant-sable.vercel.app
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile.
+⭐ Thank you for visiting my GitHub profile!
 
 I'm always open to collaborating on innovative projects, discussing technology, and connecting with fellow developers.
 
