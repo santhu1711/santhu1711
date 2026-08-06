@@ -1,38 +1,75 @@
-# Hi 👋, I'm Santhosh S
+<h1 align="center">Hi 👋, I'm Santhosh S</h1>
 
-### Java Backend Developer | AI & IoT Enthusiast | Full Stack Developer
+<h3 align="center">
+Java Backend Developer • AI Application Developer • IoT Enthusiast
+</h3>
 
-I am passionate about building scalable backend applications, AI-powered solutions, and IoT systems. I enjoy solving real-world problems through software development while continuously improving my Java backend and AI skills.
+<p align="center">
+Building scalable backend applications, AI-powered solutions, and intelligent IoT systems using Java, Spring Boot, Artificial Intelligence, and modern web technologies.
+</p>
+
+<p align="center">
+
+<a href="https://ai-personal-assistant-sable.vercel.app">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-NovaMind-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/santhu1711">
+<img src="https://img.shields.io/badge/GitHub-santhu1711-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhosh17">
+<img src="https://img.shields.io/badge/LinkedIn-Santhosh_S-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 Currently Working On
+# 👨‍💻 About Me
 
-- 🧠 NovaMind – AI Personal Assistant
-- 💼 AI Career Coach
-- ☕ Java Backend Development
-- 📚 Data Structures & Algorithms
-- 🤖 AI, RAG & LLM Applications
+I'm passionate about designing and developing scalable backend applications, AI-powered software, and intelligent IoT systems.
 
----
+My primary focus is Java Backend Development using Spring Boot, REST APIs, JWT Authentication, MySQL, and Artificial Intelligence technologies including Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
-## 🎯 Career Goal
-
-Become a skilled Java Backend Developer specializing in Spring Boot, Microservices, AI integration, and scalable backend systems.
+I enjoy building production-ready software that solves real-world problems while continuously learning modern software engineering practices.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Featured Project
 
-### Languages
-- Java
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+# 🧠 NovaMind – AI Personal Assistant
+
+### 🌐 Live Application
+
+### https://ai-personal-assistant-sable.vercel.app
+
+A production-ready AI Personal Assistant designed to deliver an intelligent conversational experience with secure authentication, persistent conversations, AI-powered PDF understanding, voice interaction, and an administration portal.
+
+---
+
+## ✨ Features
+
+- 🤖 AI Chat Assistant
+- 📄 PDF Chat (Retrieval-Augmented Generation)
+- 🔐 JWT Authentication
+- 👤 User Dashboard
+- 🛠️ Admin Dashboard
+- 📊 User Analytics
+- 💬 Persistent Conversation History
+- 🎤 Voice Assistant
+- ⭐ Feedback & Rating System
+- ☁️ Railway Backend Deployment
+- ▲ Vercel Frontend Deployment
+- 📱 Fully Responsive Design
+
+---
+
+## ⚙️ Technology Stack
 
 ### Backend
+
+- Java
 - Spring Boot
 - Spring Security
 - REST APIs
@@ -40,25 +77,111 @@ Become a skilled Java Backend Developer specializing in Spring Boot, Microservic
 - Maven
 
 ### Database
+
 - MySQL
 
-### AI
+### Artificial Intelligence
+
 - Google Gemini API
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - PDF Processing
+- Large Language Models (LLMs)
 
 ### Frontend
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 
-### IoT
+### Deployment
+
+- Railway
+- Vercel
+
+---
+
+# 🚀 Other Projects
+
+## 💼 AI Career Coach
+
+An AI-powered career development platform that helps users prepare for interviews, improve resumes, and build personalized career roadmaps.
+
+### Key Features
+
+- Resume Analysis
+- Interview Preparation
+- Career Guidance
+- AI Chat Assistance
+- Technical Interview Practice
+
+---
+
+## 🤖 IoT Smart Refrigerator
+
+An intelligent inventory management system built using ESP32 and IoT technologies.
+
+### Key Features
+
+- RFID Authentication
+- QR Code Detection
+- OpenCV Integration
+- Load Cell Monitoring
+- Temperature Monitoring
+- Blynk Cloud Integration
+
+---
+
+# 💻 Technical Skills
+
+## Programming Languages
+
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+---
+
+## Backend Development
+
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
+- Maven
+
+---
+
+## Database
+
+- MySQL
+
+---
+
+## Artificial Intelligence
+
+- Google Gemini API
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- PDF Processing
+
+---
+
+## IoT
+
 - Arduino
 - ESP32
 - Micro:bit
+- Embedded Systems
 
-### Tools
+---
+
+## Development Tools
+
 - Git
 - GitHub
 - VS Code
@@ -67,87 +190,91 @@ Become a skilled Java Backend Developer specializing in Spring Boot, Microservic
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 NovaMind – AI Personal Assistant
-
-Production-ready AI assistant built using Java Spring Boot.
-
-### Features
-
-- 💬 AI Chat
-- 📄 PDF Chat (RAG)
-- 🔐 JWT Authentication
-- 👤 User Dashboard
-- 🛠️ Admin Dashboard
-- 📊 User Analytics
-- 💾 Persistent Chat History
-- 🎤 Voice Input
-- ⭐ Feedback System
-- ☁️ Railway Backend Deployment
-- ▲ Vercel Frontend Deployment
-
----
-
-## 💼 AI Career Coach
-
-AI-powered platform that helps users prepare for interviews, improve resumes, and plan their careers.
-
----
-
-## 🤖 IoT Smart Refrigerator
-
-ESP32-based intelligent inventory management system using:
-
-- RFID
-- QR Code Scanning
-- OpenCV
-- Load Cell
-- Blynk Cloud
-
----
-
 # 📚 Currently Learning
 
-- Advanced Spring Boot
+- Advanced Java
+- Spring Boot
 - Data Structures & Algorithms
 - System Design
 - Microservices
 - AI Agents
-- RAG Applications
-- LLM Development
+- Large Language Models
+- Cloud Deployment
 
 ---
 
-# 📈 GitHub Journey
+# 🎯 Career Objective
 
-- 🚀 Building real-world projects
-- 💡 Learning every day
-- 📚 Contributing to open source
-- 🎯 Focused on Java Backend Development
+To build scalable backend systems and AI-powered applications while continuously learning modern software engineering practices and contributing to impactful technology solutions.
+
+---
+
+# 📈 Current Focus
+
+✅ Enterprise Java Development
+
+✅ Backend API Development
+
+✅ Artificial Intelligence Applications
+
+✅ Spring Boot
+
+✅ System Design
+
+✅ Data Structures & Algorithms
+
+✅ Cloud Deployment
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santhu1711&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhu1711&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+# 🏆 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhu1711&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-💼 **LinkedIn**
+### 💼 LinkedIn
 
-www.linkedin.com/in/santhosh17
+https://www.linkedin.com/in/santhosh17
 
-💻 **GitHub**
+### 💻 GitHub
 
 https://github.com/santhu1711
 
-🌐 **Portfolio**
+### 🌐 Live Project
 
-Coming Soon...
-
----
-
-# ⭐ Quote
-
-> "Code. Learn. Build. Improve. Repeat."
+https://ai-personal-assistant-sable.vercel.app
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+# 💡 Personal Motto
+
+> **"Build software that solves real-world problems. Keep learning, keep building, and let your work speak for itself."**
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile.
+
+I'm always open to collaborating on innovative projects, discussing technology, and connecting with fellow developers.
+
+</p>
