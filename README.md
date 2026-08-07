@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh S</h1>
 
 <h3 align="center">
-Java Backend Developer • AI Developer • IoT Enthusiast
+Research & Development Engineer • AI • IoT • Software Development Enthusiast
 </h3>
 
 <p align="center">
